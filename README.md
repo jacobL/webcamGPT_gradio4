@@ -1,6 +1,3 @@
-# webcamGPT_gradio4
-webcamGPT_gradio4
-
 # VisionEdge App 工具安裝
 
 ## 1.安裝python，版本 >=9
