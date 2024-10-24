@@ -1,0 +1,13 @@
+supervision
+openai
+opencv-python
+numpy
+requests
+gradio==4.44.1
+
+vertexai
+pillow
+google.generativeai
+
+pynput
+pyautogui
